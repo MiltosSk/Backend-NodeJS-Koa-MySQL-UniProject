@@ -1,5 +1,7 @@
 # Backend-NodeJS-Koa-MySQL-UniProject
 
+Backend repository for "Your Local Gym" University Project
+
 Link to original university repo: https://github.coventry.ac.uk/6003CEM-2021JANMAY/8463645-6003CEM-Backend-Resit-Deferral
 
 # Scenario
